@@ -3,7 +3,7 @@ Car Viewer AR project, an application developed for viewing car models in AR!
 
 ## INSTALLATION
 - Download the latest release
-- Make sure your smartphone (Android 13 or higher) has Google Play Services for AR (ARCore)
+- Make sure your smartphone (Android 10 or higher) has Google Play Services for AR (ARCore)
 - Enable installation from unknown sources
 - Install the .apk file
 
