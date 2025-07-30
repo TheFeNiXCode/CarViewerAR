@@ -1,4 +1,4 @@
-# AR_Car
+# CAR VIEWER AR
 Car Viewer AR project, an application developed for viewing car models in AR!
 
 ## INSTALLATION
